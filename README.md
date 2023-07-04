@@ -19,7 +19,7 @@ Efficient FastAPI implementation for searching JSON data by name, lastname, RUT,
 4. Open your browser and navigate to http://localhost:8000/docs to access the Swagger UI documentation and interact with the API.
 
 
-##API Endpoints
+## API Endpoints
 GET /search: Search JSON data based on specified criteria.
 Query Parameters:
   - name: Filter by name (optional).
