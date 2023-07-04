@@ -1,0 +1,123 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "rut": "12345678-9",
+      "edad": 30
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "rut": "9865432-1",
+      "edad": 25
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Sánchez",
+      "rut": "456901-2",
+      "edad": 42
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "López",
+      "rut": "54398-7",
+      "edad": 35
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Rodríguez",
+      "rut": "87654321-0",
+      "edad": 28
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "rut": "10293847-5",
+      "edad": 39
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Hernández",
+      "rut": "19283746-3",
+      "edad": 31
+    },
+    {
+      "nombre": "Carmen",
+      "apellido": "Fernández",
+      "rut": "37461928-4",
+      "edad": 48
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Torres",
+      "rut": "28374619-7",
+      "edad": 29
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Ramírez",
+      "rut": "74619283-6",
+      "edad": 33
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "Ortega",
+      "rut": "91627384-2",
+      "edad": 37
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Gómez",
+      "rut": "82736491-0",
+      "edad": 41
+    },
+    {
+      "nombre": "Andrés",
+      "apellido": "Silva",
+      "rut": "73649182-3",
+      "edad": 26
+    },
+    {
+      "nombre": "Mónica",
+      "apellido": "Vargas",
+      "rut": "65473829-1",
+      "edad": 44
+    },
+    {
+      "nombre": "Roberto",
+      "apellido": "Chávez",
+      "rut": "54918273-8",
+      "edad": 36
+    },
+    {
+      "nombre": "Valentina",
+      "apellido": "Rojas",
+      "rut": "93827164-5",
+      "edad": 23
+    },
+    {
+      "nombre": "Mario",
+      "apellido": "Cordero",
+      "rut": "72649583-1",
+      "edad": 32
+    },
+    {
+      "nombre": "Fernanda",
+      "apellido": "Paredes",
+      "rut": "49583726-0",
+      "edad": 27
+    },
+    {
+      "nombre": "Ricardo",
+      "apellido": "Molina",
+      "rut": "36491827-4",
+      "edad": 43
+    },
+    {
+      "nombre": "Paula",
+      "apellido": "Lara",
+      "rut": "91827364-2",
+      "edad": 34
+    }
+  ]
+  
