@@ -16,7 +16,8 @@ Efficient FastAPI implementation for searching JSON data by name, lastname, RUT,
    ```shell
    uvicorn main:app --reload
 
-5. Open your browser and navigate to http://localhost:8000/docs to access the Swagger UI documentation and interact with the API.
+4. Open your browser and navigate to http://localhost:8000/docs to access the Swagger UI documentation and interact with the API.
+
 
 
 ## API Endpoints
@@ -29,10 +30,12 @@ Query Parameters:
   - age_max: Filter by maximum age (optional).
 
 
+
 ## Example Request
 ```http
 GET /search?name=John&age_min=25&age_max=40
 ```
+
 
 ## Example Response
 ```json
