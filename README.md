@@ -21,14 +21,15 @@ Efficient FastAPI implementation for searching JSON data by name, lastname, RUT,
 
 
 ## API Endpoints
-GET /search: Search JSON data based on specified criteria.
+`GET /search`: Search JSON data based on specified criteria.
 Query Parameters:
-  - name: Filter by name (optional).
-  - lastname: Filter by lastname (optional).
-  - rut: Filter by RUT (optional).
-  - age_min: Filter by minimum age (optional).
-  - age_max: Filter by maximum age (optional).
+  - `name`: Filter by name (optional).
+  - `lastname`: Filter by lastname (optional).
+  - `rut`: Filter by RUT (optional).
+  - `age_min`: Filter by minimum age (optional).
+  - `age_max`: Filter by maximum age (optional).
 
+After receiving the results, you can click on the headers (name, lastname, RUT, or age) to sort the results in ascending order. Clicking on the headers again will sort the results in descending order.
 
 
 ## Example Request
@@ -44,13 +45,13 @@ GET /search?name=John&age_min=25&age_max=40
     {
       "name": "John",
       "lastname": "Doe",
-      "rut": "123456789",
+      "rut": "12345678-9",
       "age": 30
     },
     {
       "name": "John",
       "lastname": "Smith",
-      "rut": "987654321",
+      "rut": "19876543-2",
       "age": 35
     }
   ]
