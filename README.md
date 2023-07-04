@@ -27,3 +27,12 @@ Query Parameters:
   - rut: Filter by RUT (optional).
   - age_min: Filter by minimum age (optional).
   - age_max: Filter by maximum age (optional).
+
+
+## Example Request
+```http
+GET /search?name=John&age_min=25&age_max=40
+
+
+## Example Response
+
