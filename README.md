@@ -12,11 +12,11 @@ Efficient FastAPI implementation for searching JSON data by name, lastname, RUT,
    ```shell
    pip install -r requirements.txt
 
-3. Start the FastAPI server:
-   ```
+3. Start the FastAPI server
+   ```shell
    uvicorn main:app --reload
 
-4. Open your browser and navigate to http://localhost:8000/docs to access the Swagger UI documentation and interact with the API.
+5. Open your browser and navigate to http://localhost:8000/docs to access the Swagger UI documentation and interact with the API.
 
 
 ## API Endpoints
