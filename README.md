@@ -44,13 +44,13 @@ GET /search?name=John&age_min=25&age_max=40
     {
       "name": "John",
       "lastname": "Doe",
-      "rut": "123456789",
+      "rut": "12345678-9",
       "age": 30
     },
     {
       "name": "John",
       "lastname": "Smith",
-      "rut": "987654321",
+      "rut": "19876543-2",
       "age": 35
     }
   ]
