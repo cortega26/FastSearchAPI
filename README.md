@@ -32,7 +32,30 @@ Query Parameters:
 ## Example Request
 ```http
 GET /search?name=John&age_min=25&age_max=40
-
+```
 
 ## Example Response
+```json
+{
+  "results": [
+    {
+      "name": "John",
+      "lastname": "Doe",
+      "rut": "123456789",
+      "age": 30
+    },
+    {
+      "name": "John",
+      "lastname": "Smith",
+      "rut": "987654321",
+      "age": 35
+    }
+  ]
+}
+```
+
+
+## Licence
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
