@@ -7,6 +7,7 @@ import json
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="./static"), name="static")
 
+
 async def perform_search(
     name: Optional[str] = None,
     lastname: Optional[str] = None,
